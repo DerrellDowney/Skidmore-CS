@@ -1,0 +1,337 @@
+2021-09-30 15:20:32,204 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-09-30 15:20:40,249 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:20:40,282 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:20:40,287 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:20:40,292 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: game-over.png
+2021-09-30 15:50:59,916 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-09-30 15:51:08,223 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:51:08,246 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:51:08,250 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:51:09,446 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-09-30 15:51:09,446 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:51:12,830 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:51:16,516 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:51:18,372 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:51:20,396 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:51:22,195 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:51:23,644 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:51:25,869 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:28,445 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:30,211 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:32,131 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:32,137 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-09-30 15:51:34,222 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-09-30 15:51:34,222 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:51:36,953 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:44,821 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:46,051 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:47,396 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:48,956 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:50,300 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:51:54,203 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:51:57,150 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:51:59,650 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:52:01,733 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-09-30 15:52:03,686 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-09-30 15:52:03,687 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:55:57,625 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-09-30 15:56:02,485 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:56:02,508 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:56:02,513 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:56:03,825 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-09-30 15:56:03,825 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-09-30 15:56:05,377 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:56:06,560 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:56:07,784 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:56:09,031 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:56:10,391 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:56:12,800 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:56:14,064 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:56:18,015 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:56:20,406 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-09-30 15:56:22,431 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-09-30 15:56:22,434 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-09-30 15:56:22,438 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: game-over.png
+2021-10-01 12:27:03,655 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-01 12:27:06,764 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:27:06,787 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:27:06,791 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:27:08,092 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:27:08,092 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:27:10,236 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:27:11,667 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:27:13,363 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:27:14,858 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-01 12:27:16,459 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:27:16,459 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:27:16,463 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:27:16,464 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:27:16,466 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-01 12:27:17,531 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:27:17,531 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:27:46,620 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:27:48,090 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:27:49,522 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:27:50,859 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:27:52,147 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:27:54,243 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:27:56,795 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:27:58,802 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:00,363 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-01 12:28:02,404 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:28:02,404 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:28:02,408 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,409 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,411 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,413 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,415 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,417 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,419 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,421 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,422 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,424 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:28:02,426 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-10-01 12:28:02,429 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: game-over.png
+2021-10-01 12:29:57,393 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-01 12:30:02,144 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:30:02,173 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:30:02,177 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:30:03,447 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:30:03,447 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:30:04,943 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:06,349 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:07,749 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:09,076 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:10,581 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:12,001 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-01 12:30:13,222 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:30:13,222 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:30:13,224 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,226 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,229 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,230 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,232 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,233 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,234 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,236 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,238 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,240 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:13,241 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-10-01 12:30:16,488 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:30:16,488 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:30:19,488 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:20,756 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:22,133 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:23,557 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:25,077 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:26,061 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:27,301 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:29,141 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:31,701 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-01 12:30:40,126 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:30:40,126 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:30:40,128 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:40,129 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:40,131 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:40,133 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:40,135 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:40,136 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:40,137 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:40,140 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:40,141 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:30:40,142 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:30:40,143 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-10-01 12:30:40,146 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: game-over.png
+2021-10-01 12:44:45,087 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-01 12:44:50,797 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:44:50,826 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:44:50,831 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:44:52,146 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:44:52,146 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:44:55,130 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:44:56,337 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:44:57,785 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:44:59,112 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:00,393 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:03,149 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-01 12:45:04,695 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:45:04,696 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:45:04,698 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:04,700 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:04,703 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:04,706 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:04,708 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:04,709 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:04,710 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:04,712 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:04,713 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:04,715 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:04,716 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-10-01 12:45:05,568 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:45:05,568 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:45:08,133 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:10,982 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:13,192 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:15,983 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:17,511 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:19,641 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:20,752 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-01 12:45:22,289 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:45:22,289 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-01 12:45:22,292 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:22,293 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:22,295 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:22,296 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:22,297 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:22,299 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:22,300 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:22,302 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-01 12:45:22,303 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:22,304 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-01 12:45:22,305 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-10-01 12:45:38,098 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-01 12:45:38,098 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: game-over.png
+2021-10-05 22:42:28,418 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-05 22:42:34,401 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:42:34,462 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:42:34,470 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:42:35,950 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:42:35,971 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:42:38,924 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:42:40,368 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:42:44,826 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:42:46,431 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:42:47,852 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:42:49,576 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:42:50,991 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 22:42:53,045 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:42:53,047 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:42:53,055 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:42:53,062 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:42:53,065 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:42:53,067 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:42:53,068 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:42:53,070 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 22:42:54,171 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:42:54,180 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:53:43,226 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-05 22:54:21,489 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-05 22:54:30,988 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:54:31,034 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:54:31,040 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:54:32,394 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:54:32,422 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:54:38,607 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:54:41,764 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:54:43,772 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:54:47,986 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:49,336 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:50,272 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:51,435 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:53,233 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:54:54,736 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:54:56,329 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 22:54:58,395 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:54:58,407 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:58,408 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:54:58,411 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:58,414 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:58,417 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:58,419 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:58,422 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:58,424 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:58,428 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:58,431 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:54:58,433 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 22:54:58,436 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-10-05 22:54:59,694 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:54:59,694 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:55:07,437 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-05 22:57:47,355 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-05 22:57:57,089 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:57:57,128 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:57:57,134 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:57:58,353 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:57:58,380 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:58:02,209 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:58:03,642 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:58:05,124 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:58:05,130 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-10-05 22:58:07,618 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:58:07,627 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 22:58:07,631 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:58:11,261 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: game-over.png
+2021-10-05 22:58:11,268 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:58:51,418 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-05 22:58:57,999 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:58:58,075 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:58:58,081 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:58:59,863 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:58:59,891 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:59:01,555 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:59:04,629 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 22:59:05,434 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 22:59:05,435 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 22:59:05,440 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 22:59:05,445 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 22:59:08,336 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: game-over.png
+2021-10-05 22:59:08,339 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 23:03:57,848 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-05 23:04:09,937 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:04:09,984 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:04:09,990 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:04:10,828 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:04:10,851 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 23:04:14,592 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:16,111 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:17,739 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 23:04:22,194 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:23,781 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 23:04:31,941 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:04:31,947 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:31,949 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 23:04:31,953 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 23:04:36,993 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:04:37,004 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 23:04:39,346 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 23:04:44,043 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:47,943 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:49,129 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 23:04:51,206 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 23:04:57,192 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:04:57,201 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:57,201 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 23:04:57,205 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:57,207 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:57,209 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 23:04:57,211 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:04:57,212 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-10-05 23:05:02,474 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: game-over.png
+2021-10-05 23:05:02,481 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 23:05:11,323 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-05 23:10:58,855 [main] (MainFrame.java:263) INFO  us.daveread.edu.graphics.surface.MainFrame  - Creating a frame (Version 00.04.06) for class edu.skidmore.cs226.lab03.GuessTheNumber (Guess the Number) with mode DEFAULT
+2021-10-05 23:11:11,123 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:11:11,170 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:11:11,178 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:11:14,609 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:11:14,636 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 23:11:16,244 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:18,278 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:19,757 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 23:11:20,938 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 23:11:25,576 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: happy-face.png
+2021-10-05 23:11:39,572 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: question-mark.png
+2021-10-05 23:11:39,584 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front
+2021-10-05 23:11:39,586 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: up-arrow.png
+2021-10-05 23:11:39,590 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:39,596 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:39,601 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:39,603 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:39,604 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:39,605 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:39,606 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:39,607 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:39,608 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: down-arrow.png
+2021-10-05 23:11:39,616 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: sad-face.png
+2021-10-05 23:11:42,471 [main] (Image.java:297) DEBUG us.daveread.edu.graphics.shape.impl.Image  - Image file not found on classpath: game-over.png
+2021-10-05 23:11:42,473 [AWT-EventQueue-0] (DrawingSurface.java:487) DEBUG us.daveread.edu.graphics.surface.DrawingSurface  - Requested frame to front

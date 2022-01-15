@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+	An example Spring IoC bean configuration file.
+	
+	Uses explicit wiring for the mortgage bean.
+	
+	Used to demonstrate starting the application. Note the
+	getBean() method is never used in the example Java code.
+	The init-method parameter puts the operation in motion.
+	Note that all singleton beans are created proactively,
+	as soon as the IoC container is configured. Beans
+	can be marked for lazy instantiation (which is
+	the default for prototype beans, e.g. non-singleton).
+	However, if you want the application to start
+	automatically (e.g. using the init-method property)
+	then the bean must not be setup to load lazily.  	
+-->
+	
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Create and setup a UseDependencyInjectionAutoStart instance.
+			All its dependencies are injected via its set methods.
+			Note the use of the init-method="useSpringIoCAutoStart" 
+			to cause the useSpringIoCAutoStart() to be called
+			once the bean is setup. This is a typical approach 
+			for having the application start while avoiding the
+			need to use the getBean() method. -->  
+	<bean id="startup" 
+			class="edu.skidmore.cs226.patterns.dep_injection.UseDependencyInjectionAutoStart"  
+			init-method="useSpringIoCAutoStart"
+			destroy-method="shutdownApp">
+		<property name="mortgage" ref="mortgage"/>
+	</bean>
+	
+	<!-- Create and setup a Mortgage instance. All its dependencies are
+			injected via its set methods. Note that each injected value
+			is itself another managed bean. -->
+	<bean id="mortgage" class="edu.skidmore.cs226.patterns.dep_injection.Mortgage">
+		<property name="mortgagee" ref="person"/>
+		<property name="lienholder" ref="lienholder"/>
+		<property name="property" ref="property"/>
+		<property name="loanDetails" ref="loan"/>
+	</bean>
+
+	<!-- Create and setup a Person instance. All its dependencies are
+			injected via its set methods. Note the use of the 
+			dateFormat bean to allow injection of a 
+			java.util.Date object. -->
+	<bean id="person" class="edu.skidmore.cs226.patterns.dep_injection.Person">
+  		<property name="name" value="Veronica"/>
+  		<property name="dob">
+  			<bean factory-bean="dateFormat" factory-method="parse">
+				<constructor-arg value="1985-02-05" />
+			</bean>
+		</property>
+  		<property name="monthlyIncome" value="7890.12"/>
+	</bean>
+	
+	<!-- Create and setup a Property instance. All its dependencies are
+			injected via the constructor. -->
+	<bean id="property" class="edu.skidmore.cs226.patterns.dep_injection.Property">
+		<constructor-arg name="address" value="90 Vertical Vision, Violet, VA, 86421"/>
+  		<constructor-arg name="structureType" value="multi-family"/>
+  		<constructor-arg name="appraisedValue" value="539000"/>
+	</bean>
+	
+	<!-- Create and setup a Bank instance. All its dependencies are
+			injected via set methods. -->
+	<bean id="lienholder" class="edu.skidmore.cs226.patterns.dep_injection.Bank">
+		<property name="companyName" value="Ulysses Finance Group"/>
+  		<property name="mainOfficeAddress" value="34 Underpass Union, Uptown, UT, 33445"/>
+  		<property name="phoneNum" value="222-444-7777"/>
+	</bean>
+	
+	<!-- Create and setup a Loan instance. All its dependencies are
+			injected via the constructor using parameter names. -->
+	<bean id="loan" class="edu.skidmore.cs226.patterns.dep_injection.Loan">
+  		<constructor-arg name="numPayments" value="360"/>
+  		<constructor-arg name="principal" value="450000"/>
+  		<constructor-arg name="interestRate" value=".0369"/>
+	</bean>
+
+	<!-- Create and setup a java.text.SmpleDateFormat instance to
+			support injecting date objects. See the "person" bean
+			definition for an example of this usage. -->  
+	<bean id="dateFormat" class="java.text.SimpleDateFormat">
+		<constructor-arg value="yyyy-MM-dd" />
+	</bean>
+</beans>

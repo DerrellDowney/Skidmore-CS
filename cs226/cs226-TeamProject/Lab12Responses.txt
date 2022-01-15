@@ -1,0 +1,16 @@
+Roles
+Chief: Reid
+Equity Chief: Derrell
+Note Taker: Liam
+Team Support: Aaliyah
+
+Q1: The property makes initialization possible and runs the program
+Q2: What changes is after the scope is changed to a singleton scope, all of the coin jars are #9,
+this is because since there is one coin jar only the most recent name gets shown
+Q3: We find Di/IoC to be very convenient in creating applications. Some notable advantages is that 
+it allows us to create and run objects faster and it allows us to notice errors in testing. 
+Some challenges for us would be that the focus splits between creating the dependency injection 
+and managing the code. Testing is easier but programming to the interface is more challenging since we aren't use to it yet.
+Q4: We didn't do the extra credit
+
+

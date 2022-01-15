@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+	An example Spring IoC bean configuration file.
+	
+	Uses explicit wiring for the mortgage bean.
+	
+	Note: Three approaches to configuring beans are shown:
+		1. Use of <property> elements to inject via set methods
+		2. Use of <constructor-arg> elements to inject via the constructor
+		3. Use of the "p" namespace to inject via set methods
+		
+	Generally different modes of injection should be avoided.
+	Consistency makes for easier readability and maintainability.
+	
+	Specifically, the <property> element versus the "p" namespace
+	approaches should not be mixed. The <constructor-arg>
+	approach may be required depending on whether the class
+	has a no-arg constructor.
+	
+	Paraphrasing the Spring documentation at
+	https://docs.spring.io/spring/docs/4.3.12.RELEASE/
+	spring-framework-reference/htmlsingle/#beans-factory-collaborators
+	
+	Constructor-based or setter-based DI?
+	
+	In general the constructor <constructor-arg> element injection
+	approach is	preferred since attributes will be set at instantiation. 
+	Setter <property> element injection is best for optional 
+	dependencies or, obviously, if there is no way to set the value 
+	via a constructor.
+-->
+	
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Create and setup a Mortgage instance. All its dependencies are
+			injected via its set methods. Note that each injected value
+			is itself another managed bean. -->
+	<bean id="mortgage" class="edu.skidmore.cs226.patterns.dep_injection.Mortgage">
+		<property name="mortgagee" ref="person"/>
+		<property name="lienholder" ref="lienholder"/>
+		<property name="property" ref="property"/>
+		<property name="loanDetails" ref="loan"/>
+	</bean>
+
+	<!-- Create and setup a Person instance. All its dependencies are
+			injected via its set methods. Note the use of the 
+			dateFormat bean to allow injection of a 
+			java.util.Date object. -->
+	<bean id="person" class="edu.skidmore.cs226.patterns.dep_injection.Person">
+  		<property name="name" value="Zeb"/>
+  		<property name="dob">
+  			<bean factory-bean="dateFormat" factory-method="parse">
+				<constructor-arg value="1998-07-22" />
+			</bean>
+		</property>
+  		<property name="monthlyIncome" value="4567.89"/>
+	</bean>
+	
+	<!-- Create and setup a Property instance. All its dependencies are
+			injected via the constructor. Note there are two approaches
+			for	injecting the parameter values, either by name or by
+			type. This bean definition uses the type. Using the property
+			name is the preferred approach. See the "loan" bean for
+			an example that uses the constructor's parameter names. -->
+	<bean id="property" class="edu.skidmore.cs226.patterns.dep_injection.Property">
+  		<!-- inject constructor parameter values via data type -->  		
+  		<constructor-arg type="java.lang.String" value="345 Zebra Zone, Zoo Park, KS, 76543"/>
+  		<constructor-arg type="java.lang.String" value="two-family duplex"/>
+  		<constructor-arg type="double" value="219000"/>
+	</bean>
+	
+	<!-- Create and setup a Bank instance. All its dependencies are
+			injected via set methods. Note the use of the "p"
+			namespace to inject the values rather than using
+			<property> elements. -->
+	<bean id="lienholder" class="edu.skidmore.cs226.patterns.dep_injection.Bank"
+  		p:companyName="Yolanda Bank"
+  		p:mainOfficeAddress="234 Yield Yard, Zoo Park, KS, 76543"
+  		p:phoneNum="555-666-7777">
+	</bean>
+
+	<!-- Create and setup a Loan instance. All its dependencies are
+			injected via the constructor. Note there are two approaches
+			for	injecting the parameter values, either by name or by
+			type. This bean definition uses the name. Using the property
+			name is the preferred approach. See the "property" bean for
+			an example that uses the constructor's parameter types.-->	
+	<bean id="loan" class="edu.skidmore.cs226.patterns.dep_injection.Loan">
+		<!-- inject constructor parameter values using parameter names -->
+  		<constructor-arg name="numPayments" value="180"/>
+  		<constructor-arg name="principal" value="150000"/>
+  		<constructor-arg name="interestRate" value=".0499"/>
+	</bean>
+
+	<!-- Create and setup a java.text.SmpleDateFormat instance to
+			support injecting date objects. See the "person" bean
+			definition for an example of this usage. -->  
+	<bean id="dateFormat" class="java.text.SimpleDateFormat">
+		<constructor-arg value="yyyy-MM-dd" />
+	</bean>
+</beans>

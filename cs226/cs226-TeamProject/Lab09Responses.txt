@@ -1,0 +1,8 @@
+Note Taker: Reid
+Chief equity: Derrell
+Chief: Liam
+
+Q1: As a team we decided to implement Facade as a singleton; using the UML design as a guide we figured it would be easier to implement it as an eager singleton. Creating the instance was the most straightforward since we already had experience creating it from previous team labs
+Q2: We weren't tempted to use decisions in the code, I think that's because we were able to fully discuss and determine the best way to implement making coinJars and MoneyClips
+Q3:What is required to allow code in order to avoid decisions would be our try/catch statement as well. This is probably because we are able to check and test the code without needing decisions to check it for us
+Q4: This class is more of a facade since we were able to create objects of other subclasses and facades create a unified subsystem, which is what we did here.

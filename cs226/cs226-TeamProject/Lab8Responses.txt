@@ -1,0 +1,8 @@
+Chief leader:Reid
+Chief Equity: Liam
+Note taker: Aaliyah
+
+Q1:We used a lazy initialization style because we thought that the instance should only be created when it is needed.
+Q2: Our logging levels remained the same as the previous times, info was used for general information and debug was used when values are entered, called on and used
+Q3: Our plan for testing to to check boundaries, we want to make sure that values greater than 100 become dollars, values less than 100 are established as coins and any value less than 0 is not used or accepted
+	We also plan to make sure that the proper parameter and values are used and returned, any value that does not respect the boundary will not be included. 

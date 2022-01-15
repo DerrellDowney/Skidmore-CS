@@ -1,0 +1,32 @@
+Roles:
+Chief Leader: Liam
+Equity Leader: Aaliyah
+Note Taker: Reid
+
+Design: 
+- BankAccount is a concrete class that inherits from MoneyHolderImpl (it is a subclass of MoneyHolderImpl); the class also has a list of PhysicalMonetaryUnit objects as an attribute
+- CashDrawer is a concrete class and subclass of MoneyHolderImpl so the CashDrawer class inherits all methods stored in MoneyHolderImpl, CashDrawer also holds a list of PhysicalMonetaryUnit attributes
+- Coin is a concrete class that inherits from PhysicalMonetaryUnit (it is a subclass of PhysicalMonetaryUnit) and includes methods from the Image class
+- CoinJar is a concrete class that inherits from MoneyHolderImpl (it is a subclass of MoneyHolderImpl) and has an attribute List that holds objects from Coin
+- MonetaryUnit is an abstract class that does not inherit or interact with the other classes
+- MoneyClip is a concrete class that inherits from MoneyHolderImp (it is a subclass of MoneyHolderImpl) that has a list of PaperCurrency as well as methods that return instances of MonetaryUnit and PaperCurrency
+- MoneyExtractor is a concrete class that inherits from PhysicalMonetaryUnit (it is a subclass of PhysicalMonetaryUnit) and uses methods to return instances of PaperCurrency, Coin, and PhysicalMonetaryUnit
+- MoneyHolder is an interface that also inherits from MonetaryUnit
+- MoneyHolderImpl is an abstract class that is supported/inherits from PhysicalMonetaryUnit, it also has the interface MoneyHolder
+- PaperCurrency is a concrete class that inherits from PhysicalMonetaryUnit (it is a subclass of PhysicalMonetaryUnit) 
+- PhysicalMonetaryUnit is an abstract class that inherits from Monetary Unit, it also has Image attributes
+- PredefinedMonetaryUnit is an enum that has attributes from the Image class
+
+Q1:
+The logging level was set to warn
+Q2:
+The values of instances created in each concrete class as well as abstract classes and interfaces
+Q3:
+The team plans to utilize debug and info logs. The debug logs will show the supposed value created in the method the log was used in and the info log is to establish if something is being created
+Q4:
+The team decided to not use isTraceEnabled and isDebugEnabled
+Q5:
+Code is easy to test when the purpose of the method is clearly defined within the name of the method, parameters as well as any variables created within them.
+Code becomes more difficult to test when it the method being tested is unclear in its purpose
+Q7:
+One benefit is that as a team, we can test multiple classes as once; each team member can test an individual class quickly and once pushed, other team members can run those tests to ensure that the code works on their end as well.

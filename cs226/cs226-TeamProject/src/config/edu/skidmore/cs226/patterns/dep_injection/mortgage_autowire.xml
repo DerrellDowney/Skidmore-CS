@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+	An example Spring IoC bean configuration file.
+	
+	Uses autowiring for the mortgage bean.
+
+	Note that autowiring is fairly limited in terms of usefulness
+	and is really only recommended for fairly trivial sets of
+	beans.	
+-->	
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Create and setup a Mortgage instance. All its dependencies are
+			injected via its set methods. Note that each injected value
+			is itself another managed bean. -->
+	<bean id="mortgage" class="edu.skidmore.cs226.patterns.dep_injection.Mortgage" 
+			autowire="byName"/>
+
+	<!-- Create and setup a Person instance. All its dependencies are
+			injected via its set methods. Note the use of the 
+			dateFormat bean to allow injection of a 
+			java.util.Date object. -->
+	<bean id="mortgagee" class="edu.skidmore.cs226.patterns.dep_injection.Person">
+  		<property name="name" value="Xerces"/>
+  		<property name="dob">
+  			<bean factory-bean="dateFormat" factory-method="parse">
+				<constructor-arg value="1989-11-16" />
+			</bean>
+		</property>
+  		<property name="monthlyIncome" value="6543.21"/>
+	</bean>
+	
+	<!-- Create and setup a Property instance. All its dependencies are
+			injected via the constructor. -->
+	<bean id="property" class="edu.skidmore.cs226.patterns.dep_injection.Property">
+  		<constructor-arg name="address" value="345 Wild West, Woodlawn, WA, 24680"/>
+  		<constructor-arg name="structureType" value="single-family"/>
+  		<constructor-arg name="appraisedValue" value="327900"/>
+	</bean>
+	
+	<!-- Create and setup a Bank instance. All its dependencies are
+			injected via set methods. -->
+	<bean id="lienholder" class="edu.skidmore.cs226.patterns.dep_injection.Bank">
+  		<property name="companyName" value="Wads-o-cash Loans"/>
+  		<property name="mainOfficeAddress" value="234 Windy Wind, Waterloo, WA, 24688"/>
+  		<property name="phoneNum" value="999-777-5555"/>
+	</bean>
+
+	<bean id="loanDetails" class="edu.skidmore.cs226.patterns.dep_injection.Loan">
+  		<constructor-arg name="numPayments" value="240"/>
+  		<constructor-arg name="principal" value="280000"/>
+  		<constructor-arg name="interestRate" value=".0459"/>
+	</bean>
+
+	<!-- Create and setup a java.text.SmpleDateFormat instance to
+			support injecting date objects. See the "person" bean
+			definition for an example of this usage. -->  
+	<bean id="dateFormat" class="java.text.SimpleDateFormat">
+		<constructor-arg value="yyyy-MM-dd" />
+	</bean>
+</beans>

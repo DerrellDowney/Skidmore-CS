@@ -1,0 +1,8 @@
+Roles:
+Chief leader:Derrell
+Chief equity: Liam
+Note Taker: Aaliyah Lawrence
+
+Q1: Protected visibility is good for using our template class because we want to make sure that only subclasses of the template can have access to those methods. Most methods in templates aren't meant to be access publicly because then you would not need to create a subclass to access them.
+Q2: The public visibility is sensible because openAccount needs to be used by the subclasses. openAccount also creates the account and uses each method within the template.
+Q3: It depends on if those new methods would require data to operate successfully. They could be added to the existing template since they interact with BackAccount the same way the other template methods do.

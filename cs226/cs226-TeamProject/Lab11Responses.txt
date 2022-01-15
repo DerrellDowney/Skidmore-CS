@@ -1,0 +1,9 @@
+Note Taker: Derrell
+Chief equity: Aaliyah
+Chief: Liam
+
+Q1: MoneyTransactionSubject is an abstract class because it needs to maintain consistency between related objects. Since it updates all dependents having an abstract class makes this allows it to be reused independently. 
+Q2: One challenge that adding threading would bring is that the runnable interface could have "dangling threads" since observers will have a retained subject unless explicitly removed
+Q3: One advantage of creating an Observable interface is that you can update/notify any classes that rely on it; It keeps coupling at the interface level which means that the concrete classes will not affect each other
+Q4: You could make each subject a subclass of the subject that has those functionalities;
+Q5: When signaling the account isn't really stable. An event object will improve this by notifying and updating the observers

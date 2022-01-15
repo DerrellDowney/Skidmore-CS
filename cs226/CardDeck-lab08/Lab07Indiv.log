@@ -1,0 +1,129 @@
+2021-11-18 16:36:21,396 [main] (FiveCardDraw.java:19) INFO  edu.skidmore.cs226.lab08.FiveCardDraw  - creating a new card deck
+2021-11-18 16:36:21,401 [main] (CardDeck.java:45) INFO  edu.skidmore.cs226.lab08.CardDeck  - adding enums
+2021-11-18 16:36:21,402 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,402 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,404 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,405 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,405 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,405 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,405 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,405 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,405 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,405 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,405 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,405 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,405 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,405 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,410 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,410 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,410 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,410 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,410 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,410 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,410 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,411 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,411 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,411 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,411 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,411 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,411 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,411 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,411 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,411 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,411 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,412 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,412 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,412 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,412 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,412 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,412 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,414 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,414 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,414 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,414 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,414 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,414 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,414 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,414 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,414 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,415 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,415 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,415 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,415 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,415 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,415 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,415 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,415 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,415 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,415 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,415 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,415 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,418 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,419 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,419 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,419 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,419 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,419 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,419 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,419 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,419 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,419 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,419 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,420 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,420 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,420 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,420 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,420 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,421 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,421 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,421 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,421 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,421 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,421 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,421 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,421 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,421 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,421 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,421 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,421 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,421 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,421 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,421 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,421 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,421 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,421 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,422 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,422 [main] (CardDeck.java:52) INFO  edu.skidmore.cs226.lab08.CardDeck  - making a new card object
+2021-11-18 16:36:21,422 [main] (CardDeck.java:54) INFO  edu.skidmore.cs226.lab08.CardDeck  - Assinging values to the card
+2021-11-18 16:36:21,422 [main] (CardDeck.java:31) INFO  edu.skidmore.cs226.lab08.CardDeck  - constructing card deck
+2021-11-18 16:36:21,422 [main] (FiveCardDraw.java:23) INFO  edu.skidmore.cs226.lab08.FiveCardDraw  - picking out a card
+2021-11-18 16:36:21,422 [main] (CardDeck.java:66) INFO  edu.skidmore.cs226.lab08.CardDeck  - created random and a card
+2021-11-18 16:36:21,423 [main] (CardDeck.java:68) INFO  edu.skidmore.cs226.lab08.CardDeck  - picking a card
+2021-11-18 16:36:21,423 [main] (CardDeck.java:78) INFO  edu.skidmore.cs226.lab08.CardDeck  - returning a card
+2021-11-18 16:36:21,423 [main] (FiveCardDraw.java:23) INFO  edu.skidmore.cs226.lab08.FiveCardDraw  - picking out a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:66) INFO  edu.skidmore.cs226.lab08.CardDeck  - created random and a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:68) INFO  edu.skidmore.cs226.lab08.CardDeck  - picking a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:78) INFO  edu.skidmore.cs226.lab08.CardDeck  - returning a card
+2021-11-18 16:36:21,424 [main] (FiveCardDraw.java:23) INFO  edu.skidmore.cs226.lab08.FiveCardDraw  - picking out a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:66) INFO  edu.skidmore.cs226.lab08.CardDeck  - created random and a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:68) INFO  edu.skidmore.cs226.lab08.CardDeck  - picking a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:78) INFO  edu.skidmore.cs226.lab08.CardDeck  - returning a card
+2021-11-18 16:36:21,424 [main] (FiveCardDraw.java:23) INFO  edu.skidmore.cs226.lab08.FiveCardDraw  - picking out a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:66) INFO  edu.skidmore.cs226.lab08.CardDeck  - created random and a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:68) INFO  edu.skidmore.cs226.lab08.CardDeck  - picking a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:78) INFO  edu.skidmore.cs226.lab08.CardDeck  - returning a card
+2021-11-18 16:36:21,424 [main] (FiveCardDraw.java:23) INFO  edu.skidmore.cs226.lab08.FiveCardDraw  - picking out a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:66) INFO  edu.skidmore.cs226.lab08.CardDeck  - created random and a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:68) INFO  edu.skidmore.cs226.lab08.CardDeck  - picking a card
+2021-11-18 16:36:21,424 [main] (CardDeck.java:78) INFO  edu.skidmore.cs226.lab08.CardDeck  - returning a card
+2021-11-18 16:36:21,424 [main] (FiveCardDraw.java:26) INFO  edu.skidmore.cs226.lab08.FiveCardDraw  - printing out the number of cards remaining
+2021-11-18 16:36:21,424 [main] (CardDeck.java:83) INFO  edu.skidmore.cs226.lab08.CardDeck  - returning the size of the deck

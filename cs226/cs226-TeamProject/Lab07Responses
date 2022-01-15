@@ -1,0 +1,7 @@
+Roles:
+Chief  leader: Derrell
+Chief equity: Liam
+Note taker: Reid
+
+Q1: We used a lazy initialization style because we wanted to only have an instance created when we needed it
+Q2: We used a log.info when we wanted to make a general statement about the method and then used debug logs when values were created, assigned or called
