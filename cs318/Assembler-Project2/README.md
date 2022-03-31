@@ -4,5 +4,5 @@
 
 ### Attempting to unpack the prog1.jar file to retrieve the Binary and ALU files is a honor code violation.
 
-#### Created and distributed by Dr. Prasad
+#### Created and distributed by Dr. Aarathi Prasad
 #### Completed by Derrell Downey
