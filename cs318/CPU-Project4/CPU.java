@@ -3,7 +3,7 @@
 * Represents a simple CPU based on the ARMv8 datapath.
 *
 * CS318 Programming Assignment 4
-* Name:
+* Name: Derrell Downey
 *
 */
 import java.io.*;
